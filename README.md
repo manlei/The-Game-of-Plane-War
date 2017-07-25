@@ -1,6 +1,6 @@
 <h1 align = center>The Game of Plane War</h1>
 
-## description  
+## Description  
 
   * environment  
   > VS2012  
